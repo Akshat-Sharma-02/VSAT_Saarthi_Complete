@@ -81,11 +81,18 @@ This module focuses on:
 
 ---
 
+### 💼 **LinkedIn Profiles:**  
+  - Akshat Sharma: [Akshat's LinkedIn](https://www.linkedin.com/in/akshat-sharma-65b36b259/)
+  - Lakshya Sharma: [Lakshya's LinkedIn](https://www.linkedin.com/in/lakshya107/) 
+  - Deepak Singh: [Deepak's LinkedIn](https://www.linkedin.com/in/deepaksinghh12/)
+  - Mayank Saini: [Mayank's LinkedIn](https://www.linkedin.com/in/mayank-saini-a23b91203/)
+---
+
 ## 🏆 Smart India Hackathon 2025 Details
 
 - **Team Name:** DigiShakti  
 - **PS ID:** SIH 25142  
-- **Problem Statement:** Prediction of satellite tracking along with space weather activity forecasting  
+- **Problem Statement:** Prediction of satellite tracking along with space weather acivity forecasting (CME & Geomagnetic Storm Prediction)
 - **Status:** 🥇 Winner  
 - **Location:** Mysuru, Karnataka  
 
