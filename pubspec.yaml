@@ -1,0 +1,82 @@
+name: vsat_saarthi_flutter
+description: VSAT Saarthi Flutter Application
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+
+
+# MAIN DEPENDENCIES
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  provider: ^6.1.2
+
+  # Networking
+  http: ^1.1.0
+
+  # Google Sign-In
+  google_sign_in: ^6.2.1
+
+  # Profile Image Picker
+  image_picker: ^1.0.7
+
+  # iOS Style Icons Backup
+  cupertino_icons: ^1.0.6
+
+  shared_preferences: ^2.2.3
+
+  dropdown_button2: ^2.3.9
+
+  geolocator: ^13.0.1
+
+  sensors_plus: ^4.0.2
+
+  flutter_compass: ^0.8.0
+
+  torch_light: ^1.0.0
+
+# DEV DEPENDENCIES
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.1
+
+  # AUTO APP ICON GENERATOR
+  flutter_launcher_icons: ^0.13.1
+
+# APP ICON CONFIG
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/logo/logo_VSAT.png"
+  min_sdk_android: 21
+  remove_alpha_ios: true
+
+
+# FLUTTER CONFIG
+
+flutter:
+
+  uses-material-design: true
+
+  # ASSETS
+  assets:
+    - assets/logo/
+    - assets/fonts/
+    - assets/icon/
+
+  # INTER VARIABLE FONT
+  fonts:
+    - family: Inter
+      fonts:
+        - asset: assets/fonts/Inter-VariableFont_opsz,wght.ttf
+        - asset: assets/fonts/Inter-Italic-VariableFont_opsz,wght.ttf
+          style: italic
