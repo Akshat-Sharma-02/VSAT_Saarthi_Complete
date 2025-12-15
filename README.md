@@ -74,10 +74,10 @@ This module focuses on:
 
 ## 👥 Team Members
 
-- Akshat Sharma  
-- Lakshya Sharma  
-- Deepak Singh  
-- Mayank Saini    
+- **Akshat Sharma**  
+- **Lakshya Sharma**  
+- **Deepak Singh**  
+- **Mayank Saini**    
 
 ---
 
